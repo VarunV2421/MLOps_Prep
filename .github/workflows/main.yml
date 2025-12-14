@@ -60,7 +60,7 @@ jobs:
           export GOOGLE_APPLICATION_CREDENTIALS=$(pwd)/gcp-key.json
          
           echo "Configuring DVC to use gcloud credentials..."
-          dvc remote modify gcsremote credentialpath $(pwd)/gcp-key.json
+          dvc remote modify data-remote credentialpath $(pwd)/gcp-key.json
          
           echo "Running DVC pull:"
           dvc pull -v
