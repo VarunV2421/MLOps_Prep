@@ -1,0 +1,4 @@
+[core]
+    remote = data-remote
+['remote "data-remote"']
+    url = gs://prep_graphite-dynamo-473907-c1/
