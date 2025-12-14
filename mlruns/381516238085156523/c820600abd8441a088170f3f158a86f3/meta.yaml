@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/381516238085156523/c820600abd8441a088170f3f158a86f3/artifacts
+end_time: 1765703331631
+entry_point_name: ''
+experiment_id: '381516238085156523'
+lifecycle_stage: active
+run_id: c820600abd8441a088170f3f158a86f3
+run_name: adorable-flea-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765703326535
+status: 3
+tags: []
+user_id: jupyter

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/381516238085156523/5318560203784cd486480c5d2c5a54c9/artifacts
+end_time: 1765703373408
+entry_point_name: ''
+experiment_id: '381516238085156523'
+lifecycle_stage: active
+run_id: 5318560203784cd486480c5d2c5a54c9
+run_name: abundant-pug-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765703368875
+status: 3
+tags: []
+user_id: jupyter
