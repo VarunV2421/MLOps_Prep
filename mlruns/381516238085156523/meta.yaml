@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/381516238085156523
+creation_time: 1765699297508
+experiment_id: '381516238085156523'
+last_update_time: 1765699297508
+lifecycle_stage: active
+name: 'IRIS Classifier Test: MLFlow'

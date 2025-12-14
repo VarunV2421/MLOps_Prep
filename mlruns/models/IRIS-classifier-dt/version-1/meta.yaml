@@ -1,0 +1,15 @@
+creation_timestamp: 1765699322705
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765699322705
+model_id: m-d0bc8f09684b4c9b9d3dc6dd7fc4d0f7
+name: IRIS-classifier-dt
+run_id: 18383167ebf249bcb06fc684e7a6951e
+run_link: ''
+source: models:/m-d0bc8f09684b4c9b9d3dc6dd7fc4d0f7
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/381516238085156523/models/m-d0bc8f09684b4c9b9d3dc6dd7fc4d0f7/artifacts
+user_id: null
+version: 1
